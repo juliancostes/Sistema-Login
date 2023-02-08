@@ -1,0 +1,12 @@
+C:\Users\eduar\source\repos\SistemaLoguin\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\eduar\source\repos\SistemaLoguin\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\SistemaLoguin\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\SistemaLoguin\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaComun\obj\Debug\CapaComun.pdb
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaComun\bin\Debug\CapaComun.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaComun\bin\Debug\CapaComun.pdb
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaComun\obj\Debug\CapaComun.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaComun\obj\Debug\CapaComun.pdb

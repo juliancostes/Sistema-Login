@@ -1,0 +1,86 @@
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaComun.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaComun.pdb
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\MySql.Data.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\Zstandard.Net.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Memory.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Buffers.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eduar\source\repos\SistemaLoguin\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaComun.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\Zstandard.Net.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\Ubiety.Dns.Core.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\Renci.SshNet.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Memory.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Buffers.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Hash.xxHash.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaComun.pdb
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+E:\0 - REVISAR\PROGRAMACON Y BD - CURSOS Y APLICACIONES\PRGs C#\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaComun.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\MySql.Data.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\Zstandard.Net.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\Ubiety.Dns.Core.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\Renci.SshNet.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Memory.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Buffers.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\K4os.Hash.xxHash.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\CapaComun.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\2 - ACCESO A DATOS\SistemaLoguin\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\CapaComun.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\Zstandard.Net.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\System.Memory.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\System.Buffers.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\CapaComun.pdb
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\bin\Debug\MySql.Data.xml
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\RTECH\Desktop\Sistema Login\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
